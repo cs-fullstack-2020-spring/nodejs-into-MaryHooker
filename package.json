@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-into-maryhooker",
+  "version": "1.0.0",
+  "description": "Node.js practice webservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/nodejs-into-MaryHooker.git"
+  },
+  "author": "M.Hooker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/nodejs-into-MaryHooker/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/nodejs-into-MaryHooker#readme"
+}
